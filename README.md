@@ -122,18 +122,6 @@ Para esse desafio, temos os seguintes testes:
 
 - **`should load products from AsyncStorage`**: Para que esse teste passe, no seu arquivo onde contém o contexto do carrinho, você deve permitir que todos os produtos que foram adicionados sejam buscados do AsyncStorage.
 
-## :calendar: Entrega
-
-Esse desafio deve ser entregue a partir da plataforma da Rocketseat, envie o link do repositório que você fez suas alterações. Após concluir o desafio, fazer um post no Linkedin e postar o código no Github é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
-
-## Solução do desafio
-
-Caso você queira ver como resolver o desafio, fizemos um video explicando o passo a passo para cumprir com todos os requisitos da aplicação:
-
-<a href="https://www.youtube.com/watch?v=aGtpGPrWXMo" target="_blank" align="center">
-  <img src="./assets/challenge-08-thumb.png">
-</a>
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
